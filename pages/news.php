@@ -23,7 +23,7 @@
             <div class="col-lg-12">
                 <nav class="navbar navbar-default">
                     <div class="navbar-header">
-                        <a class="navbar-brand" href="#"><img src="img/logo.png" class="logo"></a>
+                        <a class="navbar-brand" href="#"><img src="../img/logo.png" class="logo"></a>
                     </div>
                     <ul class="nav navbar-nav">
                         <li><a href="#"><span class="fa fa-instagram"></span> Instagram</a></li>
@@ -41,17 +41,25 @@
             <div class="col-lg-9 center-block" style="float: none">
                 <nav>
                     <ul class="nav nav-pills nav-stacked span2 navbar-default">
-                        <li><a href="index.php">Главная</a></li>
-                        <li><a href="pages/news.php">Новини</a></li>
-                        <li><a href="pages/propositions.php">Пропозиції</a></li>
-                        <li><a href="pages/cabinet.php">Мій кабінет</a></li>
-                        <li><a href="pages/contacts.php">Контакти</a></li>
+                        <li><a href="../index.php">Главная</a></li>
+                        <li><a href="../pages/news.php">Новини</a></li>
+                        <li><a href="../pages/propositions.php">Пропозиції</a></li>
+                        <li><a href="../pages/cabinet.php">Мій кабінет</a></li>
+                        <li><a href="../pages/contacts.php">Контакти</a></li>
                     </ul>
                 </nav>
             </div>
         </div>
         <div class="col-lg-8">
-            <img src="img/3044_6.jpg">
+            <div class="col-lg-12 p-news">
+                <span>Новини</span>
+            </div>
+
+            <div class="col-lg-12 news-title">
+                <span>Заголовок</span>
+            </div>
+
+            <img src="../img/3044_6.jpg">
             <div class="col-lg-12 description">
                 Lorem Ipsum - это текст-"рыба", часто используемый в печати и вэб-дизайне. Lorem Ipsum является
                 стандартной "рыбой" для текстов на латинице с начала XVI века. В то время некий безымянный печатник
@@ -64,7 +72,10 @@
         </div>
         <div class="col-lg-3"></div>
         <div class="col-lg-8" style="margin-top: 20px;">
-            <img src="img/3044_6.jpg">
+            <div class="col-lg-12 news-title">
+                <span>Заголовок</span>
+            </div>
+            <img src="../img/3044_6.jpg">
             <div class="col-lg-12 description">
                 Lorem Ipsum - это текст-"рыба", часто используемый в печати и вэб-дизайне. Lorem Ipsum является
                 стандартной "рыбой" для текстов на латинице с начала XVI века. В то время некий безымянный печатник
@@ -75,72 +86,10 @@
                 используется Lorem Ipsum.
             </div>
         </div>
-        <div class="col-lg-12 filters">
-            <div class="col-lg-3">
-                <div class="dropdown">
-                    <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">За готелями
-                        <span class="caret"></span></button>
-                    <ul class="dropdown-menu">
-                        <li><a href="#">HTML</a></li>
-                        <li><a href="#">CSS</a></li>
-                        <li><a href="#">JavaScript</a></li>
-                    </ul>
-                </div>
-            </div>
-            <div class="col-lg-3">
-                <div class="dropdown">
-                    <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">За датой
-                        <span class="caret"></span></button>
-                    <ul class="dropdown-menu">
-                        <li><a href="#">HTML</a></li>
-                        <li><a href="#">CSS</a></li>
-                        <li><a href="#">JavaScript</a></li>
-                    </ul>
-                </div>
-            </div>
-            <div class="col-lg-3">
-                <div class="dropdown">
-                    <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Кількість осіб
-                        <span class="caret"></span></button>
-                    <ul class="dropdown-menu">
-                        <li><a href="#">HTML</a></li>
-                        <li><a href="#">CSS</a></li>
-                        <li><a href="#">JavaScript</a></li>
-                    </ul>
-                </div>
-            </div>
-            <div class="col-lg-3">
-                <div class="dropdown">
-                    <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">За містами
-                        <span class="caret"></span></button>
-                    <ul class="dropdown-menu">
-                        <li><a href="#">HTML</a></li>
-                        <li><a href="#">CSS</a></li>
-                        <li><a href="#">JavaScript</a></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-        <div class="col-lg-3" style="margin-top: 10px;">
-            <img src="img/xudozhnik-Alexei-Butirskiy-01.jpg">
-            <h2>Lorem Ipsum</h2>
-        </div>
-        <div class="col-lg-3" style="margin-top: 10px;">
-            <img src="img/xudozhnik-Alexei-Butirskiy-01.jpg">
-            <h2>Lorem Ipsum</h2>
-        </div>
-        <div class="col-lg-3" style="margin-top: 10px;">
-            <img src="img/xudozhnik-Alexei-Butirskiy-01.jpg">
-            <h2>Lorem Ipsum</h2>
-        </div>
-        <div class="col-lg-3" style="margin-top: 10px;">
-            <img src="img/xudozhnik-Alexei-Butirskiy-01.jpg">
-            <h2>Lorem Ipsum</h2>
-        </div>
         <div class="col-lg-12 footer">
             <div class="col-lg-6">
-                <img src="img/logo.png" class="logo_footer"><br/>
-               <span class="address"> г. Киев, ул. Центральная, 158</span>
+                <img src="../img/logo.png" class="logo_footer"><br/>
+                <span class="address"> г. Киев, ул. Центральная, 158</span>
             </div>
             <div class="col-lg-6 copyright">
                 SpiritAIRlines ©
