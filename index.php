@@ -43,7 +43,8 @@
                     <ul class="nav nav-pills nav-stacked span2 navbar-default">
                         <li><a href="index.php">Главная</a></li>
                         <li><a href="pages/news.php">Новини</a></li>
-                        <li><a href="pages/propositions.php">Пропозиції</a></li>
+                        <li><a href="pages/audio.php">Аудіо</a></li>
+                        <li><a href="pages/vidio.php">Відео</a></li>
                         <li><a href="pages/cabinet.php">Мій кабінет</a></li>
                         <li><a href="pages/contacts.php">Контакти</a></li>
                     </ul>

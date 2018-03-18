@@ -54,27 +54,7 @@
             </div>
         </div>
         <div class="col-lg-8">
-            <div class="col-lg-12 p-info">
-                <span>Контакти</span>
-            </div>
-                <div class="tabs-cab">
-                    <!— Навигация —>
-                    <ul class="nav nav-tabs" role="tablist">
-                        <li class="active" style="border: none;"><a href="#home" aria-controls="home" role="tab" data-toggle="tab">Адреси агенства</a></li>
-                        <li><a href="#profile" aria-controls="profile" role="tab" data-toggle="tab">Графік роботи</a></li>
-                        <li><a href="#messages" aria-controls="messages" role="tab" data-toggle="tab">Центр підтримки</a></li>
-                    </ul>
-                    <!— Содержимое вкладок —>
-                    <div class="tab-content">
-                        <div role="tabpanel" class="tab-pane active" id="home">Quisque ut erat id ligula feugiat lacinia. Ut quis magna imperdiet lacus ultrices posuere. Integer lobortis nibh a tempor rutrum. Aliquam in metus diam. Maecenas tempor enim sit amet lacus pellentesque fringilla. In a egestas lorem. Fusce consectetur risus et justo dignissim, sed facilisis urna finibus. Fusce et nisi imperdiet, dapibus est ac, pretium ante. Vivamus sed ipsum augue. Nam lacinia vitae risus ac ultricies. Maecenas facilisis maximus malesuada.
-
-                            Mauris ornare, nulla a feugiat pretium, orci nulla congue diam, vel laoreet mauris enim at sem. Cras ultricies elementum ligula non pharetra. In lobortis blandit urna, eu maximus sem ullamcorper sit amet. Aliquam malesuada ligula a ex euismod efficitur. Donec sed erat malesuada, venenatis ex ac, hendrerit magna. Aenean blandit ante vitae massa tincidunt, in venenatis odio ullamcorper. Sed malesuada, elit ac sodales dictum, ante velit auctor erat, in auctor augue augue quis augue.</div>
-                        <div role="tabpanel" class="tab-pane" id="profile">Aenean tortor turpis, semper at tellus eu, cursus tincidunt tellus. Vivamus ullamcorper iaculis ante, quis lobortis quam luctus in. Fusce rhoncus ac libero ac tempus. Donec non metus suscipit mauris interdum laoreet ac at est. Vivamus a justo non nibh bibendum elementum. Praesent ornare justo velit, vitae dictum justo lobortis vitae. Vestibulum sit amet nibh lorem. Pellentesque maximus justo sed mauris faucibus, mattis maximus erat efficitur.
-
-                            Curabitur lacus erat, condimentum nec luctus eu, dapibus a orci. Vestibulum sit amet eros dapibus, imperdiet leo vitae, faucibus mauris. Donec facilisis magna nec scelerisque dignissim. Donec lacinia fringilla scelerisque. Morbi fringilla lorem in dolor congue pharetra. Vestibulum maximus consequat arcu eu finibus. Phasellus condimentum sagittis urna ultrices luctus.</div>
-                        <div role="tabpanel" class="tab-pane" id="messages">Suspendisse interdum convallis nunc. Duis vitae vulputate nisi, quis elementum erat. Sed augue justo, euismod eget tristique vel, posuere eu felis. Donec laoreet mollis quam, a rhoncus ligula posuere et. Duis id nunc id mauris rutrum commodo. Suspendisse efficitur diam dui, at congue enim lobortis quis. Vivamus sit amet vestibulum diam. Nunc luctus laoreet enim, at pharetra libero iaculis vel. Donec fermentum metus vel velit hendrerit placerat. Curabitur pharetra purus ac tortor placerat mollis. Vestibulum volutpat ac nisi in varius. Vivamus a posuere odio. Suspendisse ipsum nunc, varius eu ante ut, tincidunt congue magna. Aliquam faucibus fringilla erat eu laoreet.</div>
-                    </div>
-                </div>
+            <iframe width="854" height="480" src="https://www.youtube.com/embed/40iV6rCCfPQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
         </div>
         <div class="col-lg-12 footer">
             <div class="col-lg-6">
